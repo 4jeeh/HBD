@@ -1,6 +1,6 @@
 # HBD
 
-Website special untuk Dina dengan berbagai halaman interaktif dan animasi.
+Website special untuk Dina 
 
 ## Struktur Website
 - index.html: Halaman utama
